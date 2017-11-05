@@ -44,7 +44,6 @@ function getAvgs() {
     }
     gpa = total / 7;
     console.log(gpa.toFixed(2));
-    document.getElementById('ncContent_cpAverages_collapsible2').innerHTML = '<h5 style="float: left;padding-left: 5px;"> Current GPA: ' + gpa.toFixed(2) + '</h5>' + document.getElementById('ncContent_cpAverages_collapsible2').innerHTML;
+    document.getElementById('ncContent_cpAverages_collapsible2').innerHTML = '<div style="padding-left:10px;"> Current GPA: <b>' + gpa.toFixed(2) + '</b></div>' + document.getElementById('ncContent_cpAverages_collapsible2').innerHTML;
 }
 getAvgs();
-
