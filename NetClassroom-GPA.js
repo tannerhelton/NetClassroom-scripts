@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NetClassroom GPA
 // @namespace    NetClassroom GPA
-// @version      1.0
+// @version      1.1
 // @description  Displays the GPA for NetClassroom
 // @author       Tanner Helton
 // @include      http://netclassroom.rockhursths.edu/NetClassroom7/Forms/*
