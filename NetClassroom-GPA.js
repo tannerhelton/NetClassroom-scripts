@@ -4,7 +4,7 @@
 // @version      1.1
 // @description  Displays the GPA for NetClassroom
 // @author       Tanner Helton
-// @include      http://netclassroom.rockhursths.edu/NetClassroom7/Forms/*
+// @include      http://netclassroom.rockhursths.edu/NetClassroom7/Forms/NCShellCompat.aspx
 // @exclude      http://netclassroom.rockhursths.edu/NetClassroom7/Forms/login.aspx
 // @grant        none
 // ==/UserScript==
